@@ -1,4 +1,4 @@
-# can_bus_bajaufscar_2021 (Coworker: @rbmreanan)
+# can_bus_bajaufscar_2021 (Coworker: @rblreanan)
 ## Objetivo geral 
 Transmissão e recebimento de dados entre placas Arduinos através do protocolo CAN BUS. O circuito será implementado ao carro BAJA UFSCar, este é incluso diversos sensores, como por exemplo, sensor de temperatura, pressão de vias de freio, rpm, velocidade, entre outros. Dessa maneira, para ter o sucesso com a manipulação dos dados gerados por estes dispositivos, é implementado ao projeto a comunicação por via LORAWAN e CAN BUS. 
 ### Arquivos presentes no repositório
